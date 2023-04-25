@@ -11,5 +11,3 @@ pool:
 - task: VSBuild@1
   inputs:
     solution: '**\*.sql'
-
-
